@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+	<menu>
+		<add id="Eloom_Smtp::config_system"
+		     title="SMTP"
+		     module="Eloom_Smtp"
+		     action="adminhtml/system_config/edit/section/system/smtp"
+		     parent="Eloom_Core::menu"
+		     resource="Magento_Config::config_system"
+		     sortOrder="60"/>
+	</menu>
+</config>
