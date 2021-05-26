@@ -1,8 +1,10 @@
 # SMTP Simples para Magento 2
 
 ## Require
-* PHP/PHP-FPM: ~7.2 | ~7.3 | ~7.4
-* Magento/framework: 102.0.* | 103.0.*
+* PHP/PHP-FPM: ~7.3 | ~7.4
+* Magento/framework: 103.0.*
+
+* Compatível apenas com Magento 103.0.* em virtude do envio ser feito com o Laminas.
 
 ## Links
 
