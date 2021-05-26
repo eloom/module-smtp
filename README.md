@@ -4,6 +4,8 @@
 * PHP/PHP-FPM: ~7.3 | ~7.4
 * Magento/framework: 103.0.*
 
+## P.S.
+
 * Compatível apenas com Magento 103.0.* em virtude do envio ser feito com o Laminas.
 
 ## Links
