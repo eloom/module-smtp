@@ -1,7 +1,7 @@
 {
   "name": "eloom/module-smtp",
   "description": "SMTP para Magento 2",
-  "homepage": "https://www.eloom.com.br/smtp",
+  "homepage": "https://eloom.tech/smtp",
   "keywords": [
     "magento",
     "magento2",
