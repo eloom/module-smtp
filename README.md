@@ -1,7 +1,7 @@
 # SMTP Simples para Magento 2
 
 ## Require
-* PHP/PHP-FPM: ~7.3 | ~7.4
+* PHP/PHP-FPM: ~7.3 | ~7.4 | ~8.1
 * Magento/framework: 103.0.*
 
 ## P.S.
